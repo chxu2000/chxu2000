@@ -1,4 +1,4 @@
-### Hi there, I'm [Ted Xu](https://github.com/Ted-0711) 👋
+### Hi there 👋
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/jasonkayzk/jasonkayzk@master/hello-world.gif" width="30%">
