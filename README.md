@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm [Ted Xu](https://github.com/Ted-0711) 👋
+
+I am Chenhao Xu, a junior in Tongji University, majored in Computer Science.
+
+🔭 I’m currently working on Temporal Graph Simulation.
+
+🌱 I’m currently learning Machine Learning, Deep Learning and Reinforcement Learning.
+
+📫 How to reach me: chrispaul183@foxmail.com.
 
 <!--
 **Ted-0711/Ted-0711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
