@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Ted-0711.Ted-0711)
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/jasonkayzk/jasonkayzk@master/hello-world.gif" width="30%">
