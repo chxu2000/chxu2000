@@ -1,4 +1,4 @@
-### Hi there 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Ted-0711.Ted-0711)
+### Hi there 👋
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/jasonkayzk/jasonkayzk@master/hello-world.gif" width="30%">
@@ -21,6 +21,8 @@
 [![](https://img.shields.io/badge/-Tensorflow-fcc624?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![](https://img.shields.io/badge/-PyTorch-269539?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![](https://img.shields.io/badge/-Markdown-2496ED?style=flat-square&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Ted-0711.Ted-0711)
 
 I am Chenhao Xu, a junior in Tongji University, majored in Computer Science
 
