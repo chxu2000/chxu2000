@@ -1,5 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Ted-0711.Ted-0711)
-
 ### Hi there 👋
 
 <p align="center">
@@ -33,6 +31,8 @@ I am Chenhao Xu, a junior in Tongji University, majored in Computer Science
 - 📫 How to reach me: chrispaul183@foxmail.com
 
 [![Github Stats By Jasonkay](https://github-readme-stats.vercel.app/api?username=ted-0711&show_icons=true&title_color=0366d6&icon_color=ffc83d&text_color=24292e&bg_color=fff)](https://github.com/Ted-0711/)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Ted-0711.Ted-0711)
 
 <!--
 **Ted-0711/Ted-0711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
