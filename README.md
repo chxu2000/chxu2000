@@ -18,7 +18,6 @@
 [![](https://img.shields.io/badge/-Electron-6DB33F?style=flat-square&logo=electron&logoColor=ffffff)](https://www.electronjs.org/)
 [![](https://img.shields.io/badge/-Bootstrap-cb3837?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![](https://img.shields.io/badge/-jQuery-003545?style=flat-square&logo=jquery&logoColor=white)](https://jquery.com/)
-[![](https://img.shields.io/badge/-Tensorflow-fcc624?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![](https://img.shields.io/badge/-PyTorch-269539?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![](https://img.shields.io/badge/-Markdown-2496ED?style=flat-square&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
 
