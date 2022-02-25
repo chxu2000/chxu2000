@@ -30,11 +30,13 @@ I am Chenhao Xu, a junior in Tongji University, majored in Computer Science
 - 📫 How to reach me: chrispaul183@foxmail.com
 
 <div align=center>
-[![Github Stats By Jasonkay](https://github-readme-stats.vercel.app/api?username=ted-0711&show_icons=true&title_color=0366d6&icon_color=ffc83d&text_color=24292e&bg_color=fff)](https://github.com/Ted-0711/)
+  
+  [![Github Stats By Jasonkay](https://github-readme-stats.vercel.app/api?username=ted-0711&show_icons=true&title_color=0366d6&icon_color=ffc83d&text_color=24292e&bg_color=fff)](https://github.com/Ted-0711/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SleepinWei)](https://github.com/Ted-0711/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SleepinWei)](https://github.com/Ted-0711/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Ted-0711.Ted-0711)
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Ted-0711.Ted-0711)
+  
 </div>
 
 <!--
