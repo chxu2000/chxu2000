@@ -23,7 +23,7 @@
 
 I am Chenhao Xu, a junior in Tongji University, majored in Computer Science
 
-- 🔭 I’m currently working on Temporal Graph Simulation
+- 🔭 I’m currently working on Temporal Graph Simulation & Financial Big Data
 
 - 🌱 I’m currently learning Machine Learning, Deep Learning and Reinforcement Learning
 
