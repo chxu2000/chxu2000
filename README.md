@@ -27,9 +27,11 @@ I am Chenhao Xu, a junior in Tongji University, majored in Computer Science
 
 <div align=center>
   
-  [![Github Stats By Jasonkay](https://github-readme-stats.vercel.app/api?username=ted-0711&show_icons=true&theme=gruvbox_light)](https://github.com/Ted-0711/)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ted-0711&theme=gruvbox_light)](https://github.com/Ted-0711/github-readme-stats)
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ted-0711&theme=one-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  [![Github Stats By Jasonkay](https://github-readme-stats.vercel.app/api?username=ted-0711&show_icons=true&theme=onedark)](https://github.com/Ted-0711/) &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ted-0711&theme=onedark)](https://github.com/Ted-0711/github-readme-stats)
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Ted-0711&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
   ![Page View](https://visitor-badge.glitch.me/badge?page_id=Ted-0711.Ted-0711)
   
