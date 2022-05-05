@@ -1,4 +1,9 @@
 ### Hi there 👋
+<br>
+
+<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
+<br>
 
 [![](https://img.shields.io/badge/-C++-269539?style=flat-square&logo=c%2B%2B&logoColor=ffffff)](https://www.cplusplus.com/)
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
@@ -25,13 +30,20 @@ I am Chenhao Xu, a junior in Tongji University, majored in Computer Science
 
 - 📫 How to reach me: chrispaul183 [AT] foxmail [DOT] com
 
+<br>
+
 <div align=center>
   
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ted-0711&theme=one-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-  [![Github Stats By Jasonkay](https://github-readme-stats.vercel.app/api?username=ted-0711&show_icons=true&theme=onedark)](https://github.com/Ted-0711/) &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ted-0711&theme=onedark)](https://github.com/Ted-0711/github-readme-stats)
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Ted-0711&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+  <div align="center">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ted-0711&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=onedark" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ted-0711&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=onedark" />
+  </div>
+  <br>
+
+  <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=ted-0711&theme=onedark&row=1&column=6&no-frame=true" /></div>
+  <br>
 
   ![Page View](https://visitor-badge.glitch.me/badge?page_id=Ted-0711.Ted-0711)
   
