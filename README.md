@@ -27,7 +27,7 @@ I am Chenhao Xu, a junior in Tongji University, majored in Computer Science
 
 - 🌱 I’m currently learning Machine Learning, Deep Learning and Reinforcement Learning
 
-- 📫 How to reach me: chrispaul183 [AT] foxmail [DOT] com
+- 📫 How to reach me: tedxu0711 [AT] gmail [DOT] com
 
 <br>
 
