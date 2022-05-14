@@ -21,7 +21,7 @@
 [![](https://img.shields.io/badge/-PyTorch-269539?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![](https://img.shields.io/badge/-Markdown-2496ED?style=flat-square&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
 
-I am Chenhao Xu, a junior in Tongji University, majored in Computer Science
+I am Chenhao Xu, a junior at Tongji University, majoring in Computer Science
 
 - 🔭 I’m currently working on Temporal Graph Simulation & Financial Big Data
 
