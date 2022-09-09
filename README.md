@@ -23,7 +23,7 @@
 
 I am Chenhao Xu, a senior at Tongji University majoring in Computer Science. I will hopefully become a Ph.D. student at the Key Laboratory of High Confidence Software Technologies, CS, Peking University, Beijing, China.
 
-- 🔭 I’m currently working on Query Scheduling based on GNN and RL
+- 🔭 I’m currently working on Query Scheduling and Efficient Graph Learning Algorithms
 
 - 🌱 I’m currently learning Machine Learning, Deep Learning and Reinforcement Learning
 
