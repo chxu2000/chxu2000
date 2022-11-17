@@ -36,12 +36,12 @@ I am Chenhao Xu, a senior at Tongji University majoring in Computer Science. I w
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=chxu2000&theme=one-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <div align="center">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ted-0711&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=onedark" />
-    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ted-0711&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=onedark" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=chxu2000&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=onedark" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chxu2000&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=onedark" />
   </div>
   <br>
 
-  <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=ted-0711&theme=onedark&row=1&column=6&no-frame=true" /></div>
+  <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=chxu2000&theme=onedark&row=1&column=6&no-frame=true" /></div>
   <br>
 
   ![Page View](https://visitor-badge.glitch.me/badge?page_id=chxu2000.chxu2000)
