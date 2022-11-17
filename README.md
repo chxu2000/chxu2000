@@ -33,7 +33,7 @@ I am Chenhao Xu, a senior at Tongji University majoring in Computer Science. I w
 
 <div align=center>
   
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ted-0711&theme=one-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=chxu2000&theme=one-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <div align="center">
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ted-0711&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=onedark" />
@@ -44,12 +44,12 @@ I am Chenhao Xu, a senior at Tongji University majoring in Computer Science. I w
   <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=ted-0711&theme=onedark&row=1&column=6&no-frame=true" /></div>
   <br>
 
-  ![Page View](https://visitor-badge.glitch.me/badge?page_id=Ted-0711.Ted-0711)
+  ![Page View](https://visitor-badge.glitch.me/badge?page_id=chxu2000.chxu2000)
   
 </div>
 
 <!--
-**Ted-0711/Ted-0711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**chxu2000/chxu2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
