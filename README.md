@@ -27,7 +27,7 @@ I am Chenhao Xu, a Ph.D. student at the Key Laboratory of High Confidence Softwa
 
 - 🌱 I’m currently learning Machine Learning, Deep Learning and Reinforcement Learning
 
-- 📫 How to reach me: tedxu0711 [AT] gmail [DOT] com
+- 📫 How to reach me: xuchenhao [AT] stu [DOT] pku [DOT] edu [DOT] cn
 
 <br>
 
