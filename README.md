@@ -21,7 +21,7 @@
 [![](https://img.shields.io/badge/-PyTorch-269539?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![](https://img.shields.io/badge/-Markdown-2496ED?style=flat-square&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
 
-I am Chenhao Xu, a senior at Tongji University majoring in Computer Science. I will hopefully become a Ph.D. student at the Key Laboratory of High Confidence Software Technologies, CS, Peking University, Beijing, China.
+I am Chenhao Xu, a Ph.D. student at the Key Laboratory of High Confidence Software Technologies, CS, Peking University, Beijing, China.
 
 - 🔭 I’m currently working on Query Scheduling and Efficient Graph Learning Algorithms
 
